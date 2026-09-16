@@ -1,6 +1,6 @@
 ---
-layout - default
-title - reference
+layout: default
+title: reference
 ---
 
 ## reference/
