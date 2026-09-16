@@ -18,3 +18,6 @@ Welcome to my documentation project.
 
 ## Reference
 - [Reference Material](/ref/reference.md/)
+
+## Explain Moi 
+-[Explained a bit here](/explanation/explain.md/)
