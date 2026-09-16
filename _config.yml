@@ -1,1 +1,11 @@
+title: Neocities Documentation
+description: Documentation and tutorials for creating Neocities websites
 
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
