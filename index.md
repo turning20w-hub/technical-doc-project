@@ -8,10 +8,10 @@ title: Home
 
 Welcome to my documentation project.
 
+
 ## Tutorials
 
-- [Create your first Neocities website](/tutorials/first-neocities-site/)
-
-## How-to guides
-
 - [Add HTML to a Neocities website](/tutorials/first-neocities-site.md/)
+
+## How To 
+- [How To begin](/how-to/howto.md/)
