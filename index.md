@@ -17,7 +17,7 @@ Welcome to my documentation project.
 - [How To begin](/how-to/howto.md/)
 
 ## Reference
-- [Reference Material](/ref/reference.md/)
+ [Reference Material](/ref/reference.md/)
 
 ## Explain Moi 
 -[Explained a bit here](/explanation/explain.md/)
