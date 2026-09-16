@@ -15,3 +15,6 @@ Welcome to my documentation project.
 
 ## How To 
 - [How To begin](/how-to/howto.md/)
+
+## Reference
+- [Reference Material](/ref/reference.md/)
