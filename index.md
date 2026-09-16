@@ -14,4 +14,4 @@ Welcome to my documentation project.
 
 ## How-to guides
 
-- [Add HTML to a Neocities website](/how-to/howto/)
+- [Add HTML to a Neocities website](/tutorials/first-neocities-site.md/)
